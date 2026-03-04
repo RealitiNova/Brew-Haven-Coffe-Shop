@@ -51,3 +51,14 @@ To run locally:
 
 ## Live Site (GitHub pages)
 After enabling GitHub Pages in repository settings, the site can be accessed publicly via GitHub Pages (URL provided by GitHub).
+
+
+## User Stories
+
+1. As a customer, I want to view the coffee menu so that I can decide what to order.
+
+2. As a visitor, I want to see the contact page so that I can find the shop location and opening hours.
+
+3. As a user, I want to navigate between pages easily so that I can browse the website smoothly.
+
+4. As a customer, I want to see images of coffee so that I can choose what I like.

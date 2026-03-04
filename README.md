@@ -45,9 +45,9 @@ To run locally:
 2. Connect the contact form to a backend service (or email API) so submissions are actually sent/stored.
 3. Improve accessibility (ARIA labels, better keyboard navigation, contrast checks).
 4. Add an online ordering/reservation feature and a simple cart/checkout flow.
-5. Optimize performance (image compression, lazy loading, minified CSS).
+5. Optimize performance (image compression, lazy loading, minified CSS)..
 
 ---
 
-## Live Site (GitHub page)
+## Live Site (GitHub pages)
 After enabling GitHub Pages in repository settings, the site can be accessed publicly via GitHub Pages (URL provided by GitHub).

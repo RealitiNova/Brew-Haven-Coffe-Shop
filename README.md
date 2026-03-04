@@ -49,5 +49,5 @@ To run locally:
 
 ---
 
-## Live Site (GitHub pages)
+## Live Site (GitHub page)
 After enabling GitHub Pages in repository settings, the site can be accessed publicly via GitHub Pages (URL provided by GitHub).
